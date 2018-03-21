@@ -1,0 +1,12 @@
+{
+  "httpServer": {
+    "port": 5000
+  },
+  "rpcServer": {
+    "port": 5001
+  },
+  "breedService": {
+    "useMock": false,
+    "baseUrl": "https://dog.ceo/api"
+  }
+}
